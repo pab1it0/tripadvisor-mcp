@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pab1it0-tripadvisor-mcp-badge.png)](https://mseep.ai/app/pab1it0-tripadvisor-mcp)
+
 # Tripadvisor MCP Server
 
 A [Model Context Protocol][mcp] (MCP) server for Tripadvisor Content API.
