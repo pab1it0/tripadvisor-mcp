@@ -19,6 +19,10 @@ This provides access to Tripadvisor location data, reviews, and photos through s
 
 The list of tools is configurable, so you can choose which tools you want to make available to the MCP client.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/pab1it0-tripadvisor-mcp).
+
 ## Usage
 
 1. Get your Tripadvisor Content API key from the [Tripadvisor Developer Portal](https://developer.tripadvisor.com/).
